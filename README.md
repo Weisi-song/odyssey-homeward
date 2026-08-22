@@ -2,6 +2,22 @@
 
 一场互动式映前导读：你将以奥德修斯的身份，走完特洛伊战争之后持续十年的海上归途。
 
+> 这是我的独立创作项目。我独立完成了叙事结构、关卡与选择设计、视觉方向、交互实现和最终演示构建。
+
+## 为什么做
+
+很多观众知道奥德修斯和“十年归乡”，却很难在观影前快速记住旅途中大量的人物、地点和事件。传统导读通常把故事压缩成一篇长文，信息完整，但不容易让人感受到每一次选择背后的代价。
+
+我把导读改造成第一人称旅程：用户不是旁观者，而是在地图上前进的奥德修斯。每一站通过场景、人物、声音和选择呈现一个核心冲突，让用户在到达伊萨卡之前逐步理解“归乡”为什么不仅是一段路线，也是关于身份、欲望、责任和时间的考验。
+
+## 叙事与交互设计
+
+- 用航海地图串联分散的经典章节，建立整体路线感
+- 每个节点只保留一个最重要的冲突和选择，降低理解门槛
+- 用人物卡片补充神祇、同伴和家人的关系，而不打断主线
+- 通过场景插画、音效和节奏变化建立不同章节的情绪
+- 在结尾生成个人归乡记录，让用户回看自己一路做出的选择
+
 ## 体验内容
 
 - 从特洛伊启程，沿航海地图推进完整旅程
@@ -25,6 +41,22 @@
 # Odyssey: Homeward
 
 An interactive pre-film introduction in which you take the role of Odysseus and travel through the ten-year voyage that followed the Trojan War.
+
+> An independent creative project. I designed the narrative structure, choices, visual direction, interactions, and final demo build.
+
+## Why I built it
+
+Many viewers recognize Odysseus and the ten-year homecoming but struggle to retain the journey's many characters, places, and episodes before a film. Traditional guides compress the story into long text without making the cost of each choice felt.
+
+I turned the guide into a first-person journey. The user advances as Odysseus, and each stop uses scenes, characters, sound, and choice to frame one central conflict. By Ithaca, homecoming becomes not only a route but a test of identity, desire, responsibility, and time.
+
+## Narrative and interaction design
+
+- A voyage map connects otherwise fragmented episodes
+- Each stop focuses on one conflict and choice
+- Character cards explain relationships without interrupting the main path
+- Illustration, sound, and pacing establish distinct emotional chapters
+- A final journey record lets users reflect on their choices
 
 ## Experience
 
