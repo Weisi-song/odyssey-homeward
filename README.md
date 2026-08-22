@@ -4,6 +4,14 @@
 
 > 这是我的独立创作项目。我独立完成了叙事结构、关卡与选择设计、视觉方向、交互实现和最终演示构建。
 
+**[在线体验完整旅程](https://weisi-song.github.io/odyssey-homeward/)**
+
+## 项目画面
+
+![《奥德赛：归乡航行》封面](assets/screenshots/cover.png)
+
+![奥德修斯启程页面](assets/screenshots/journey.png)
+
 ## 为什么做
 
 很多观众知道奥德修斯和“十年归乡”，却很难在观影前快速记住旅途中大量的人物、地点和事件。传统导读通常把故事压缩成一篇长文，信息完整，但不容易让人感受到每一次选择背后的代价。
@@ -43,6 +51,8 @@
 An interactive pre-film introduction in which you take the role of Odysseus and travel through the ten-year voyage that followed the Trojan War.
 
 > An independent creative project. I designed the narrative structure, choices, visual direction, interactions, and final demo build.
+
+**[Experience the full interactive journey](https://weisi-song.github.io/odyssey-homeward/)**
 
 ## Why I built it
 
