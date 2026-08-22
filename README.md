@@ -8,13 +8,13 @@
 
 ## 项目画面
 
-![《奥德赛：归乡航行》封面](assets/screenshots/01-cover.jpg)
-
-![奥德修斯人物介绍](assets/screenshots/02-character-intro.jpg)
-
-![归乡航线互动地图](assets/screenshots/03-voyage-map.jpg)
-
-![独眼巨人的洞穴剧情场景](assets/screenshots/04-story-scene.jpg)
+<p align="center">
+  <img src="assets/screenshots/01-cover.jpg" alt="《奥德赛：归乡航行》封面" width="48%" />
+  <img src="assets/screenshots/02-character-intro.jpg" alt="奥德修斯人物介绍" width="48%" />
+  <br />
+  <img src="assets/screenshots/03-voyage-map.jpg" alt="归乡航线互动地图" width="48%" />
+  <img src="assets/screenshots/04-story-scene.jpg" alt="独眼巨人的洞穴剧情场景" width="48%" />
+</p>
 
 ## 为什么做
 
